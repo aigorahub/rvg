@@ -1,5 +1,7 @@
 # rvg (development version)
 
+* fix issue with PowerPoint file not opening correctly due to negative lengths of items
+
 # rvg 0.3.3
 
 ## Issues
